@@ -1,7 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=girishp12113&label=Profile%20views&color=0e75b6&style=flat" alt="girishp12113" /> </p>
 <h2 align="Left">Hi 👋, I'm Girish Panchariya</h2>
 💻Computer Science Engineering Student<br>🧑‍💻Tech enthusiast |💡 Innovation-Driven<br>🛠️Building creative solutions | 🔍 Curious mind <br>🤖 Exploring AI & web tech | 📈 Always learning.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=girishp12113&label=Profile%20views&color=0e75b6&style=flat" alt="girishp12113" /> </p>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GirishPanchariya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girishpanchariya14@gmail.com) 
